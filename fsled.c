@@ -4,6 +4,8 @@
 #include <linux/of_gpio.h>
 #include <linux/gpio.h>
 
+//led control driver code
+//MIKE TAN
 
 int core_led[3] = {0};
 int extend_led[3] = {0};
